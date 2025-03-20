@@ -335,14 +335,3 @@ The tests cover:
 ### Logs
 
 The system logs information to the console. For more detailed logging, you can adjust the log level in each module.
-
-### Getting Help
-
-If you encounter issues not covered in this guide, please:
-1. Check the logs for error messages
-2. Run the tests to verify component functionality
-3. Contact support at support@example.com
-
----
-
-This completes the setup and usage guide for the Pricing Engine. For more detailed information about specific components, please refer to the code documentation.
